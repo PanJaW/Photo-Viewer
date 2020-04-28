@@ -1,0 +1,74 @@
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe.config
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form1.resources
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Properties.Resources.resources
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csproj.GenerateResource.Cache
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\fizyka obrazu\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe.config
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csprojResolveAssemblyReference.cache
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form1.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Properties.Resources.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu1\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csproj.GenerateResource.Cache
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe.config
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csprojResolveAssemblyReference.cache
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form1.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Properties.Resources.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csproj.GenerateResource.Cache
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe.config
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.pdb
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csprojResolveAssemblyReference.cache
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form1.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Properties.Resources.resources
+C:\Users\nt22\Desktop\JanWiewiorowskiFizykaObrazu6\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csproj.GenerateResource.Cache
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe.config
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.exe
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.pdb
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.exe
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\FizykaObrazu.pdb
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csprojResolveAssemblyReference.cache
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form1.resources
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Properties.Resources.resources
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.csproj.GenerateResource.Cache
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x64\concrt140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x64\cvextern.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x64\msvcp140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x64\opencv_ffmpeg401_64.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x64\vcruntime140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x86\concrt140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x86\cvextern.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x86\msvcp140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x86\opencv_ffmpeg401.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\x86\vcruntime140.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\Emgu.CV.UI.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\Emgu.CV.World.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\ZedGraph.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\Emgu.CV.UI.xml
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\Emgu.CV.World.xml
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\ZedGraph.xml
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nt78\Desktop\przetwarzanie obrazu\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu6.1\JanWiewiorowskiFizykaObrazu2\FizykaObrazu\FizykaObrazu\obj\Debug\FizykaObrazu.Form2.resources
